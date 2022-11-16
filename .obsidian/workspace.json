@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "ec03d54f8171095a",
+    "type": "split",
+    "children": [
+      {
+        "id": "68e048033af732bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b290399518a7dba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e71c3f07ed8c80c",
+    "type": "split",
+    "children": [
+      {
+        "id": "509201bb78de084c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a1063e026e23dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0df9ab4258afeeed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#obsidian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d1a3b8e238069ff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dedadd5e8d64ce72",
+    "type": "split",
+    "children": [
+      {
+        "id": "97eb172cd95d980c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7182083a5e20206b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e9d3b757cae79151",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4b290399518a7dba",
+  "lastOpenFiles": [
+    "File paths to pay attention to.md",
+    "Useful terminal commands.md",
+    "Cheat sheet links.md",
+    "03-29-22.md",
+    "5-25-22.md",
+    "Attendence Report.md",
+    "Comment Save in Excel.md",
+    "Data  output.md",
+    "Day One at Karavan.md",
+    "Goals and or Projects.md"
+  ]
+}

@@ -1,0 +1,5 @@
+The DB server is 2008 (What a different time)
+1826 total tables (Last checked 8-01-22)
+355 updated in the last month (Last checked 8-01-22)
+996 empty tables (Last checked 8-01-22)
+475 old/infrequent used tables (Last checked 8-01-22)

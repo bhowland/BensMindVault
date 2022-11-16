@@ -1,0 +1,1 @@
+[Microsoft Access Pass Through Queries to SQL Server (mssqltips.com)](https://www.mssqltips.com/sqlservertip/1482/microsoft-access-pass-through-queries-to-sql-server/#:~:text=%20Of%20course%20there%20is.%20Microsoft%20Access%20gives,you%20will%20know%20precisely%20how%20to%20create%20one.)

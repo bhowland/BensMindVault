@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "ec03d54f8171095a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8addb047f3f7043",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Onboarding Karavan - Dev (6-28-22).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e71c3f07ed8c80c",
+    "type": "split",
+    "children": [
+      {
+        "id": "509201bb78de084c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a1063e026e23dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0df9ab4258afeeed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#project",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d1a3b8e238069ff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dedadd5e8d64ce72",
+    "type": "split",
+    "children": [
+      {
+        "id": "97eb172cd95d980c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7182083a5e20206b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Onboarding Karavan - Dev (6-28-22).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e9d3b757cae79151",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b8addb047f3f7043",
+  "lastOpenFiles": [
+    "File paths to pay attention to.md",
+    "Attendence Report.md",
+    "Cheat sheet links.md",
+    "Comment Save in Excel.md",
+    "Data  output.md",
+    "Day One at Karavan.md",
+    "Goals and or Projects.md",
+    "Make all reports faster.md",
+    "Making of the Reports site.md",
+    "Onboarding Karavan - Dev (6-28-22).md"
+  ]
+}
