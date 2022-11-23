@@ -10,3 +10,5 @@ Docker
 Grammarly
 Mozilla VPN
 "Work environment" chrome
+flycut
+Boom 
