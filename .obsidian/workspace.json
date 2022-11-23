@@ -11,11 +11,28 @@
             "id": "4b290399518a7dba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "xml or xsl project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ad70f161f7933c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bens Dev environment.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bens Dev environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b290399518a7dba",
+  "active": "4ad70f161f7933c7",
   "lastOpenFiles": [
-    "File paths to pay attention to.md",
+    "Onboarding Karavan - Dev (6-28-22).md",
+    "Bens Dev environment.md",
+    "xml or xsl project.md",
     "Useful terminal commands.md",
-    "Cheat sheet links.md",
-    "03-29-22.md",
-    "5-25-22.md",
-    "Attendence Report.md",
-    "Comment Save in Excel.md",
-    "Data  output.md",
-    "Day One at Karavan.md",
-    "Goals and or Projects.md"
+    "Things to note about the KTI_App.md",
+    "Making of the Reports site.md",
+    "Make all reports faster.md",
+    "Goals and or Projects.md",
+    "File paths to pay attention to.md",
+    "Day One at Karavan.md"
   ]
 }

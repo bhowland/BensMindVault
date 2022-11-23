@@ -28,9 +28,9 @@ WP engine
 + git
 Github
 Storepoint (holds the Google map API key)
-Google Analytics
-Google Search Console
-WebInterface http://98.100.231.194/#/
+Google Analytics (Karavan Google)
+Google Search Console (Ben's Work Google)
+WebInterface http://98.100.231.194/#/ (FTP Server)
 
 [[Day One at Karavan]]
 [[File paths to pay attention to]]
