@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bens Dev environment.md",
+                "file": "Cheat sheet links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc2cb381e3aafb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1322779999a2cde1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Searching for (backups) SP in a DB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bens Dev environment.md",
+                "file": "Searching for (backups) SP in a DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ad70f161f7933c7",
+  "active": "1322779999a2cde1",
   "lastOpenFiles": [
-    "Onboarding Karavan - Dev (6-28-22).md",
+    "My Cheatsheet.md",
+    "Cheat sheet links.md",
     "Bens Dev environment.md",
+    "Onboarding Karavan - Dev (6-28-22).md",
     "xml or xsl project.md",
     "Useful terminal commands.md",
     "Things to note about the KTI_App.md",
     "Making of the Reports site.md",
     "Make all reports faster.md",
-    "Goals and or Projects.md",
-    "File paths to pay attention to.md",
-    "Day One at Karavan.md"
+    "Goals and or Projects.md"
   ]
 }
